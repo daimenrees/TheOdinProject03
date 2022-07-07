@@ -1,3 +1,2 @@
-The first CSS and HTML Odin Project!
-
-Flex box! Yew!!!
+This is Project is TOP's first CSS project!
+Introducing Flex box!!
